@@ -1,2 +1,1 @@
-# OSINT-Resources-and-TIPS
-OSINT tools, websites, tips from blog posts etc.
+https://start.me/p/rxBv18/osint-t0ch13
